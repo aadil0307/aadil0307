@@ -47,7 +47,7 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aadil0307&theme=dark&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=aadil0307&theme=dark&hide_border=true" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadil0307&layout=compact&theme=radical" alt="Top Languages" />
 </div>
