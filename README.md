@@ -21,7 +21,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=aadil0307&label=Profile%20views&color=0e75b6&style=flat" alt="aadil0307" />
 </div>
-<div align="center">&nbsp;&nbsp; 
+<div>&nbsp;&nbsp; 
   
   📫 **Connect with me**  
 &nbsp;&nbsp; 
