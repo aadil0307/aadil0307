@@ -1,9 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=4500&pause=1000&color=0E75B6&width=435&lines=Hello+World%2C+Aadil+here!;Full+Stack+Developer+🚀" alt="Typing SVG">
 </div>
-
----
-
 <div align="center">
   <a href="https://discord.com/users/1015294609041141830" target="_blank">
     <img alt="Mohd Aadil | Discord" width="40" height="40" src="https://skillicons.dev/icons?i=discord" />
@@ -15,14 +12,9 @@
     <img alt="Gmail" src="https://skillicons.dev/icons?i=gmail" width="40" height="40"/>
   </a>
 </div>
-
----
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Let's+Transform+Ideas;Into+Reality!+✨" alt="Typing SVG" />
 </div>
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=aadil0307&label=Profile%20views&color=blue&style=flat" alt="Profile Views" />
