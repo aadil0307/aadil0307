@@ -30,9 +30,9 @@
 
 <br/>
 
-<h2 align="center">📫 Reach Me</h2>
+<h2 align="center">📫 Reach Me</h2><br>
 <ul>
-  <li>📧 Reach me at: <a href="mailto:aadilshaikh2164@gmail.com">aadilshaikh2164@gmail.com</a></li>
+  <li>📧 Reach me at: <a href="mailto:aadilshaikh2164@gmail.com">aadilshaikh2164@gmail.com</a></li><br>
   <li>📄 Check out my <a href="your-resume-link-here">Resume</a></li>
 </ul>
 
