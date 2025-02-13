@@ -96,6 +96,7 @@
       <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a>&nbsp;
     </td>
   </tr>
+</table>
 
 <h2 align="center">🔥 GitHub Stats</h2>
 <div align="center">
