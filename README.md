@@ -22,6 +22,12 @@
   <img src="https://komarev.com/ghpvc/?username=aadil0307&style=flat-square&color=blue" alt="Profile views" />
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
 <br/>
 
 <h2 align="center">📫 Reach Me</h2>
@@ -72,16 +78,12 @@
 
 <h2 align="center">🔥 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadil0307&theme=dark" alt="GitHub Streak"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aadil0307&theme=tokyonight" alt="Mohd Aadil" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadil0307&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
 <h2 align="center">📌 GitHub User Content</h2>
 <div align="center">
