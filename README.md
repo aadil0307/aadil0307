@@ -62,7 +62,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=aadil0307&layout=compact&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/api/?username=aadil0307&layout=compact&theme=radical" alt="GitHub Streak" />
 </div>
 
 <div align="center">
