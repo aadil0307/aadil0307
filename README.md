@@ -113,8 +113,9 @@
 
 <br>
 
-<div align=center>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aadil0307&theme=tokyonight" alt="Mohd Aadil" />
+<h2 align="center">📌 GitHub User Content</h2>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadil0307&theme=radical" alt="GitHub Summary"/>
 </div>
 
 <br>
