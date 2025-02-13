@@ -25,7 +25,8 @@
   
   📫 **Connect with me**  
 &nbsp;&nbsp; 
-- 📬 Reach me at [aadilshaikh2164@gmail.com](mailto:aadilshaikh2164@gmail.com) &nbsp;&nbsp;  
+- 📬 Reach me at [aadilshaikh2164@gmail.com](mailto:aadilshaikh2164@gmail.com) &nbsp;&nbsp;
+    
 - 📄 Check out my [Resume](your-resume-link-here)&nbsp;&nbsp; 
 
 </div>
