@@ -33,7 +33,7 @@
 <ul>
 <h2 align="center">📫 Reach Me</h2><br>
   <li>📧 Reach me at: <a href="mailto:aadilshaikh2164@gmail.com">aadilshaikh2164@gmail.com</a></li><br>
-  <li>📄 Check out my <a href="your-resume-link-here">Resume</a></li>
+  <li>📄 Check out my <a href="https://drive.google.com/file/d/1D0yNdk6ovWAu2A4loCubT4pykoauvfjA/view?usp=sharing">Resume</a></li>
 </ul>
 
 <table align="center">
