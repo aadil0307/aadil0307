@@ -23,10 +23,11 @@
 </div>
 
 <br><br>
-
-## 🤝 Let's Build Something Awesome Together! 🚀  
+<div align="center">
+## 🤝 Let's Build Something Awesome Together! 🚀  </div>
 <div align="center">
 📬 **Get in Touch**  
+  <br><br>
 </div>
 - 💌 Drop me an email at [aadilshaikh2164@gmail.com](mailto:aadilshaikh2164@gmail.com)  
 <br><br>
