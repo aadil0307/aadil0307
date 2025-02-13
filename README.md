@@ -56,7 +56,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aadil0307&show_icons=true&theme=radical" alt="GitHub Stats">
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadil0307&layout=compact&theme=radical" alt="Top Languages">
-</div>
+</div>\
+
 ## 🎉 **Thanks for Visiting My Profile!**  
 💡 *Let's connect and build something innovative together!* 🚀
 
