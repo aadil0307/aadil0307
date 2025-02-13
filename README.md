@@ -8,7 +8,7 @@
         <img alt="Mohd Aadil | LinkedIn" width="40" height="40" src="https://skillicons.dev/icons?i=linkedin" />
     </a>&nbsp;&nbsp; 
     <a href="mailto:aadilshaikh2164@gmail.com?subject='Hey there, nice connecting with you'" target="_blank">
-        <img alt="Gmail" src="assets/gmail.png" width="40" height="40"/>
+        <img alt="Gmail" src="https://skillicons.dev/icons?i=gmail" width="40" height="40"/>
     </a>
 </p>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Let's+Transform+Ideas;Into+Reality!+✨" alt="Typing SVG" /> </div> <br/> <div align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> </div>
