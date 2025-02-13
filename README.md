@@ -9,10 +9,6 @@
   <a href="https://www.linkedin.com/in/aadil0307" target="_blank">
     <img alt="Mohd Aadil | LinkedIn" width="40" height="40" src="https://skillicons.dev/icons?i=linkedin" />
   </a>&nbsp;&nbsp; 
-  <a href="mailto:aadilshaikh2164@gmail.com?subject='Hey there, nice connecting with you'" target="_blank">
-    <img alt="Gmail" src="https://skillicons.dev/icons?i=gmail" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="your-resume-link-here" target="_blank">📄 Resume</a>
 </div>
 
 <div align="center">
@@ -22,7 +18,13 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=aadil0307&label=Profile%20views&color=0e75b6&style=flat" alt="aadil0307" />
 </div>
+<div align="center">
+  📫 **Connect with me**  
 
+- 📬 Reach me at [aadilshaikh2164@gmail.com](mailto:aadilshaikh2164@gmail.com)  
+- 📄 Check out my [Resume](your-resume-link-here)
+
+</div>
 <h2 align="center">🛠️ My Tech Arsenal</h2>
 <div align="center">
   <h3>👨‍💻 Programming</h3>
