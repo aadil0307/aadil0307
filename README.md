@@ -28,7 +28,14 @@
   <img src="https://komarev.com/ghpvc/?username=aadil0307&label=Profile%20views&color=blue&style=flat" alt="Profile Views" />
 </div>
 
-<br>
+---
+
+## 🐍 **GitHub Contribution Snake**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+</div>
+
+---
 
 ## 🤝 **Let's Connect & Collaborate!**  
 
@@ -61,9 +68,9 @@
 
 ---
 
-## 🐍 **GitHub Contribution Snake**  
+## 🖼️ **Showcase**  
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+  <img src="your-image-link-here" alt="Showcase Image" width="500">
 </div>
 
 ---
