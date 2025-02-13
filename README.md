@@ -21,9 +21,12 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=aadil0307&label=Profile%20views&color=0e75b6&style=flat" alt="aadil0307" />
 </div>
-<div>&nbsp;&nbsp;
+<div>
+  <div align="center">
   📫 **Connect with me**  
+  </div>
 &nbsp;&nbsp; 
+  
 - 📬 Reach me at Reach me at **aadilshaikh2164@gmail.com** &nbsp;&nbsp;
     
 - 📄 Check out my [Resume](your-resume-link-here)&nbsp;&nbsp; 
