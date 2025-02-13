@@ -11,10 +11,12 @@
         <img alt="Gmail" src="https://skillicons.dev/icons?i=gmail" width="40" height="40"/>
     </a>
 </p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Let's+Transform+Ideas;Into+Reality!+✨" alt="Typing SVG" /> </div> <br/> <div align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> </div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Let's+Transform+Ideas;Into+Reality!+✨" alt="Typing SVG" /> </div> <br/> <div align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> <div align="center">
+<div align="center">
 📫 Connect With Me
 📧 Reach me at: aadilshaikh2164@gmail.com
 📄 Check out my Resume
+<div align="center">
 <details> <summary><h2>🛠️ My Tech Arsenal</h2></summary> <div align="center">
 👨‍💻 Programming
 <div> <img src="https://skillicons.dev/icons?i=c,cpp,python" /> </div>
