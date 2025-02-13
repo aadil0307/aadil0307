@@ -32,7 +32,6 @@
     
 - 📄 Check out my [Resume](your-resume-link-here)&nbsp;&nbsp; 
 </div>
-</div>
 <h2 align="center">🛠️ My Tech Arsenal</h2>
 <div align="center">
   <h3>👨‍💻 Programming</h3>
