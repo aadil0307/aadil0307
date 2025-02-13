@@ -30,14 +30,14 @@
 
 <br/>
 
-<h2 align="center">📫 Reach Me</h2><br>
 <ul>
+<h2 align="center">📫 Reach Me</h2><br>
   <li>📧 Reach me at: <a href="mailto:aadilshaikh2164@gmail.com">aadilshaikh2164@gmail.com</a></li><br>
   <li>📄 Check out my <a href="your-resume-link-here">Resume</a></li>
 </ul>
 
-<h2 align="center">🛠️ My Tech Arsenal</h2>
 <table align="center">
+<h2 align="center">🛠️ My Tech Arsenal</h2>
   <tr>
     <td>👨‍💻 Programming:</td>
     <td>
