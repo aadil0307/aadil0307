@@ -52,19 +52,11 @@
   <h3>🔧 Tools</h3>
   <img src="https://skillicons.dev/icons?i=vscode,figma" />
 </div>
-
 <br>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadil0307&layout=compact&theme=radical" alt="Top Languages" />
 </div>
-
 <br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/api/?username=aadil0307&layout=compact&theme=radical" alt="GitHub Streak" />
-</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
