@@ -19,20 +19,20 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aadil0307&label=Profile%20views&color=0e75b6&style=flat" alt="aadil0307" />&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=aadil0307&label=Profile%20views&color=blue&style=flat" alt="Profile Views" />
 </div>
-<div>
-  <br><br>
-  <div align="center">
-    &nbsp;&nbsp;
-  📫 **Connect with me**  
-  </div>
-&nbsp;&nbsp; 
-  
-- 📬 Reach me at Reach me at **aadilshaikh2164@gmail.com** &nbsp;&nbsp;
-    
-- 📄 Check out my [Resume](your-resume-link-here)&nbsp;&nbsp; 
+
+<br><br>
+
+## 🤝 Let's Build Something Awesome Together! 🚀  
+<div align="center">
+📬 **Get in Touch**  
 </div>
+- &nbsp; 📫 Reach me at **dsouzaglen30@gmail.com**
+
+- &nbsp; Check out - <a href="https://drive.google.com/file/d/1pLzZrVDbAzxC6z39b9nkCIs1z95Y993S/view?usp=sharing" target="_blank">📄 Resume</a>
+
+
 <h2 align="center">🛠️ My Tech Arsenal</h2>
 <div align="center">
   <h3>👨‍💻 Programming</h3>
