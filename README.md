@@ -38,43 +38,64 @@
 
 <table align="center">
 <h2 align="center">🛠️ My Tech Arsenal</h2>
-  <tr>
-    <td>👨‍💻 Programming:</td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=c,cpp,python,java"/>
+   <tr>
+    <td>Programming:</td>
+    <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a>&nbsp;
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a>&nbsp;
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a>&nbsp;
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a>&nbsp;
     </td>
   </tr>
   <tr>
-    <td>🎨 Frontend:</td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap"/>
+    <td>Frontend:</td>
+    <td><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a>&nbsp;
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a>&nbsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a>&nbsp; 
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="javascript" width="40" height="40"/> </a>&nbsp; 
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a>&nbsp; 
+    <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a>&nbsp; 
     </td>
   </tr>
   <tr>
-    <td>⚙️ Backend & Frameworks:</td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=php,nodejs,express,django"/>
+    <td>UI Libraries & Frameworks:</td>
+    <td><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a>&nbsp;
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwindCSS" width="40" height="40"/> </a>&nbsp;
+    <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=materialui" alt="materialUI" width="40" height="40"/> </a>&nbsp;
+    <a href="https://api.jquery.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jquery" alt="jquery" width="40" height="40"/> </a>&nbsp;
     </td>
   </tr>
   <tr>
-    <td>🗄️ Database:</td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
+    <td>Backend:</td>
+    <td><a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a>&nbsp;
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a>&nbsp;
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=expressjs" alt="express" width="40" height="40"/> </a>&nbsp;
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="express" width="40" height="40"/> </a>&nbsp;
+    <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="express" width="40" height="40"/> </a>&nbsp;
     </td>
   </tr>
   <tr>
-    <td>📱 Mobile Development:</td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=flutter,react,java"/>
+    <td>Database:</td>
+    <td><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a>&nbsp; 
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/></a>&nbsp;
+    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a>&nbsp;
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a>&nbsp;
     </td>
   </tr>
   <tr>
-    <td>🔧 Tools:</td>
+    <td>Mobile App:</td>
     <td>
-      <img src="https://skillicons.dev/icons?i=vscode,figma"/>
+      <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a>&nbsp;
+      <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a>&nbsp;
+      <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a>&nbsp;
     </td>
   </tr>
-</table>
+  <tr>
+    <td>Tools:</td>
+    <td>
+      <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a>&nbsp;
+      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a>&nbsp;
+    </td>
+  </tr>
 
 <h2 align="center">🔥 GitHub Stats</h2>
 <div align="center">
