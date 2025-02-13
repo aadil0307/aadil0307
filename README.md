@@ -28,7 +28,7 @@
 <div align="center">
 📬 **Get in Touch**  
 </div>
-- &nbsp; 📫 Reach me at **dsouzaglen30@gmail.com**
+- &nbsp; 📫 Reach me at **aadilshaikh2164@gmail.com**
 
 - &nbsp; Check out - <a href="https://drive.google.com/file/d/1pLzZrVDbAzxC6z39b9nkCIs1z95Y993S/view?usp=sharing" target="_blank">📄 Resume</a>
 
