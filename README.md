@@ -100,9 +100,10 @@
 
 <h2 align="center">🔥 GitHub Stats</h2>
 <div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadil0307&show_icons=true&count_private=true&theme=tokyonight&hide_rank=true&hide=contribs" alt="Mohd Aadil" />
+</div>
+<div align=center>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aadil0307&theme=tokyonight" alt="Mohd Aadil" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadil0307&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 <br>
