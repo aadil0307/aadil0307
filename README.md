@@ -60,9 +60,8 @@
 
 ---
 
-## 🖼️ **Showcase**  
 <div align="center">
-  <img src="your-image-link-here" alt="Showcase Image" width="500">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Showcase Image" width="500">
 </div>
 
 ---
