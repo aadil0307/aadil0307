@@ -103,10 +103,12 @@
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=aadil0307&show_icons=true&count_private=true&theme=tokyonight&hide_rank=true&hide=contribs" alt="Mohd Aadil" />
 </div>
-&nbsp;
-</div>
+
+<br>
+
+<h2 align="center">📌 GitHub User Content</h2>
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadil0307&show_icons=true&count_private=true&theme=tokyonight&hide_rank=true&hide=contribs" alt="Mohd Aadil" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadil0307&theme=radical" alt="GitHub Summary"/>
 </div>
 
 <br>
