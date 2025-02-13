@@ -62,9 +62,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
 
-<h3 align="center">🙏 Thank you for visiting my profile!</h3>
-<h3 align="center">Let's connect and build something amazing together! 🚀</h3>
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadil0307&theme=radical" alt="GitHub Profile Summary" />
 </div>
+
+<h3 align="center">🙏 Thank you for visiting my profile!</h3>
+<h3 align="center">Let's connect and build something amazing together! 🚀</h3>
