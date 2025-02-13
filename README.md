@@ -28,9 +28,9 @@
 <div align="center">
 📬 **Get in Touch**  
 </div>
-- &nbsp; 📫 Reach me at **aadilshaikh2164@gmail.com**
+- 💌 Drop me an email at [aadilshaikh2164@gmail.com](mailto:aadilshaikh2164@gmail.com)  
 <br><br>
-- &nbsp; Check out - <a href="https://drive.google.com/file/d/1pLzZrVDbAzxC6z39b9nkCIs1z95Y993S/view?usp=sharing" target="_blank">📄 Resume</a>
+- 📄 Check out my [Resume](your-resume-link-here)  
 
 
 <h2 align="center">🛠️ My Tech Arsenal</h2>
