@@ -25,7 +25,7 @@
 <br><br>
 <div align="center">
 ## 🤝 Let's Build Something Awesome Together! 🚀
-
+<div align="center">
 📬 **Get in Touch**  
   <br><br>
 </div>
