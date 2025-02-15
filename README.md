@@ -115,7 +115,7 @@
 
 <h2 align="center">⚡ GitHub Streak</h2>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadil030&theme=tokyonight" alt="GitHub Summary"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadil0307&theme=tokyonight" alt="GitHub Summary"/>
 </div>
 
 <br>
