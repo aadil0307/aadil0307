@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aadil0307&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=aadil0307&style=flat-square&color=blue" alt="You are Visitor" />
 </div>
 
 <br>
